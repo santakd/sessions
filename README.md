@@ -89,3 +89,4 @@ Other implementations of the `sessions.Store` interface:
 ## License
 
 BSD licensed. See the LICENSE file for details.
+
